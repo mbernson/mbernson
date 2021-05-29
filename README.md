@@ -1,1 +1,3 @@
-Welcome to my GitHub! :sparkles:
+- 👋 Hi, I’m Mathijs
+- 👀 I’m interested in iOS development and creating cool, useful apps
+- 📫 How to reach me: mathijs.bernson@gmail.com or [@mathijsbernson](https://twitter.com/mathijsbernson) on Twitter
